@@ -2,7 +2,7 @@
 Forward and inverse kinematics motion for 3 DOF robotic arm
 
 
-Connected 3 servo motors to Arduino to build a robotic arm to create two functions which are forward kinematics and inverse kinematics
+Connected 3 servo motors to Arduino to build a robotic arm and create two functions which are forward kinematics and inverse kinematics
 
 ## Forward kinematics function
 **Forward Kinematics** is to get the co-ordinate(s) of the end effector from given angles of all joints
